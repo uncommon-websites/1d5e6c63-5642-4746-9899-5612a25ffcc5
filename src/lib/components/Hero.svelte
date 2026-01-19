@@ -1,44 +1,43 @@
 <script lang="ts">
 </script>
 
-<section class="relative h-screen min-h-[700px] w-full overflow-hidden bg-[#8C8C84]">
+<section class="relative h-screen min-h-[700px] w-full overflow-hidden bg-black">
     <!-- Background Image -->
     <div class="absolute inset-0 w-full h-full">
         <img 
-            src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=2940&auto=format&fit=crop" 
-            alt="Hand reaching for bowl" 
+            src="/generated/image-a-close-up-photograph-of-a-high-quality--1768850705035-0.webp" 
+            alt="Premium custom knitted blanket" 
             class="w-full h-full object-cover"
         />
-        <div class="absolute inset-0 bg-black/10"></div>
+        <div class="absolute inset-0 bg-black/40"></div>
     </div>
 
     <!-- Content -->
     <div class="relative z-10 h-full container mx-auto px-6 md:px-12 flex flex-col justify-center text-white pb-10 pt-20">
         <div class="max-w-2xl">
             <!-- Badge -->
-            <span class="inline-block bg-[#D4E995] text-[#191919] text-[10px] font-bold px-2 py-0.5 rounded mb-6 tracking-wide uppercase">
-                New
+            <span class="inline-block bg-white text-black text-[10px] font-bold px-2 py-0.5 rounded mb-6 tracking-wide uppercase">
+                Premium Corporate Gifting
             </span>
 
             <!-- Heading -->
             <h1 class="text-[42px] md:text-[56px] lg:text-[64px] leading-[1.05] font-normal tracking-tight mb-6">
-                Nutrition, energy, and sleep—<br class="hidden md:block" />
-                advanced by microbiome science
+                Branded blankets they’ll actually keep
             </h1>
 
             <!-- Subtext -->
             <p class="text-base md:text-lg text-white/90 mb-10 max-w-lg leading-relaxed font-light">
-                Seed's Co-Biotics nourish you and your microbiome to deliver targeted, daily benefits.
+                Better Blanket makes corporate gifting easy with premium, sustainable blankets that represent your brand—and never end up in the trash.
             </p>
 
             <!-- CTA -->
             <div class="flex items-center gap-4">
-                <a href="/" class="inline-block bg-white text-[#191919] px-8 py-3.5 rounded-full font-medium text-[13px] hover:bg-gray-100 transition-colors tracking-wide">
-                    Shop Now
+                <a href="/" class="inline-block bg-white text-black px-8 py-3.5 rounded-full font-medium text-[13px] hover:bg-gray-100 transition-colors tracking-wide">
+                    Start Your Order
                 </a>
                 <div class="text-[10px] uppercase tracking-widest text-white/80 border-l border-white/30 pl-4 ml-2 leading-tight">
-                    Dietary Supplement<br/>
-                    30 Capsules — 30 Day Supply
+                    Made in the USA<br/>
+                    100% Recycled Yarns
                 </div>
             </div>
         </div>
